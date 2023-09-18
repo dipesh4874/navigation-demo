@@ -11,7 +11,7 @@ const Bottomtabnavigation = () => {
   return (
     <Tab.Navigator
       screenOptions={({route}) => ({
-        headerShown:false,
+        headerShown: false,
         tabBarIcon: ({focused, color}) => {
           let iconName;
 
@@ -24,7 +24,6 @@ const Bottomtabnavigation = () => {
             iconName = focused
               ? require('../../assets/icons/setting.png')
               : require('../../assets/icons/setting.png');
-              
           } else if (route.name === 'phon') {
             iconName = focused
               ? require('../../assets/icons/phon.png')

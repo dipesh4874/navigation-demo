@@ -9,7 +9,7 @@ const First = () => {
   return (
     <ImageBackground
       source={{
-        uri: 'https://cdn.pixabay.com/photo/2015/04/27/11/48/sign-741813_1280.jpg',
+        uri: 'https://toppng.com/uploads/preview/flower-design-black-and-white-11549497181vthkvs7jyz.png',
       }}
       style={{flex: 1}}
       resizeMode="cover"
