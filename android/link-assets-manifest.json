@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/icons/home.png",
+      "sha1": "fd1dba2921b75b249c49a047e13374982e995567"
+    },
+    {
+      "path": "assets/icons/inbox.png",
+      "sha1": "6426440cb21a799b5c987f0b9b98ac03226c681f"
+    },
+    {
+      "path": "assets/icons/mail.png",
+      "sha1": "c912bb7142e2513bb62367fa7643cc69997b8408"
+    },
+    {
+      "path": "assets/icons/send (2).png",
+      "sha1": "005f540e595b4ad7b2b334167c133a02c410510e"
+    },
+    {
+      "path": "assets/icons/send.png",
+      "sha1": "a4c88d995b3383784d81f0efb2a919cb8cb9e15f"
+    }
+  ]
+}
